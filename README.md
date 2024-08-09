@@ -6,6 +6,6 @@ Nací y vivo en Buenos Aires, Argentina desde hace 27 años. Me he formado profe
 
 - 🔭 Trabajo en una empresa de SaaS, analizando datos y colaborando con desarrollos.
 - 🌱 Actualmente estoy expandiendo mis conocimientos en Java y tecnologías de frontend.
-- 💬 En <a href=”https://dmatia.com” target=”_blank”> mi página web</a> podés ver algunos de mis proyectos y mi trabajo como fotógrafo.
-- 📫 Me podés contactar a través de <a href=”https://www.linkedin.com/in/dmatia/” target=”_blank”> Linkedin</a> o vía <a href=”mailto:diegovillalba.96@gmail.com” target=”_blank”> Email</a>.
+- 💬 En <a href="https://dmatia.com" target="_blank"> mi página web</a> podés ver algunos de mis proyectos y mi trabajo como fotógrafo.
+- 📫 Me podés contactar a través de <a href="https://www.linkedin.com/in/dmatia/" target="_blank"> Linkedin</a> o vía <a href="mailto:diegovillalba.96@gmail.com" target="_blank"> Email</a>.
 - 😄 Mis pronombres son: Él/Ella/Ellos. Mi identidad de género es no binaria.
