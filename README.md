@@ -1,6 +1,6 @@
 ## Hola 👋! Soy diego/matia y soy desarrollador fullstack. 
 
-Nací y vivo en Buenos Aires, Argentina desde hace 28 años. Me he formado profesionalmente en la Universidad Tecnológica Nacional (UTN) donde aprendí a programar en distintos lenguajes como C++, C# y Java. Actualmente sigo formándome en distintas tecnologías como NodeJs y ampliando mis conocimientos en frontend. Trabajo en una empresa de SaaS donde desempeño el rol de Analista de cuentas, analizando datos y participando en distintos desarrollos. 
+Nací y vivo en Buenos Aires, Argentina desde hace 29 años. Me he formado profesionalmente en la Universidad Tecnológica Nacional (UTN) donde aprendí a programar en distintos lenguajes como C++, C# y Java. Actualmente sigo formándome en distintas tecnologías como NodeJs y ampliando mis conocimientos en frontend. Trabajo en una empresa de SaaS donde desempeño el rol de Analista de cuentas, analizando datos y participando en distintos desarrollos. 
 
 
 
